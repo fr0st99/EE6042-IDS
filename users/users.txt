@@ -1,0 +1,13 @@
+user
+john
+admin
+administator
+root
+vm
+oracle
+ash
+rick
+username
+pass
+pass1234
+USER

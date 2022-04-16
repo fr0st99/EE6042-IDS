@@ -1,0 +1,721 @@
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:08.438380 192.168.0.25:36386 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:13109 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xC2D3ED70  Ack: 0x63306CBF  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282010793 3310533537 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:11.393138 192.168.0.25:36386 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:13115 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xC2D3ED92  Ack: 0x63306D19  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282013748 3310536503 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:14.749429 192.168.0.25:36390 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:46110 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xD3D974C9  Ack: 0xC1C441A4  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282017104 3310539860 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:14.749597 192.168.0.25:36394 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:6711 IpLen:20 DgmLen:65 DF
+***AP*** Seq: 0xF6306646  Ack: 0x9ACB060C  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282017104 3310539860 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:14.750560 192.168.0.25:36406 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:54348 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x478C30AA  Ack: 0x63B050AD  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282017105 3310539860 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:14.751122 192.168.0.25:36402 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:58246 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xCAD9AFC2  Ack: 0xBAF98B29  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282017106 3310539861 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:14.751393 192.168.0.25:36400 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:9293 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x72B513C0  Ack: 0xB2898581  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282017106 3310539862 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:14.751929 192.168.0.25:36400 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:9295 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x72B513CF  Ack: 0xB28985A3  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282017107 3310539862 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.844997 192.168.0.25:36388 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:55429 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x73E7E1A5  Ack: 0x3986D67B  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020200 3310542955 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.845257 192.168.0.25:36388 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:55431 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x73E7E1B8  Ack: 0x3986D69D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020200 3310542955 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.846561 192.168.0.25:36408 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:51656 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xC1278727  Ack: 0xABF72AA9  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020201 3310542957 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.847041 192.168.0.25:36412 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:55396 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xCA8D3BFE  Ack: 0x82C3A574  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020202 3310542957 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.848197 192.168.0.25:36406 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:54352 IpLen:20 DgmLen:62 DF
+***AP*** Seq: 0x478C30C0  Ack: 0x63B050E5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020203 3310542958 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.848397 192.168.0.25:36398 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:4752 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xB856E44A  Ack: 0x71A53743  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020203 3310542959 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.848494 192.168.0.25:36404 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:47573 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x13CA2638  Ack: 0x6FA0C127  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020203 3310542959 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.848662 192.168.0.25:36404 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:47575 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x13CA2643  Ack: 0x6FA0C149  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020203 3310542959 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.852279 192.168.0.25:36402 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:58250 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xCAD9AFD8  Ack: 0xBAF98B61  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020207 3310542963 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:17.854916 192.168.0.25:36414 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:63829 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x261ABFF5  Ack: 0x149F856D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282020210 3310542965 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.020965 192.168.0.25:36388 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:55435 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x73E7E1D0  Ack: 0x3986D6D5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023376 3310546131 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.022217 192.168.0.25:36420 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:22081 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x7DA0B0E6  Ack: 0x1AD3968B  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023377 3310546132 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.022497 192.168.0.25:36420 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:22083 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x7DA0B0F1  Ack: 0x1AD396AD  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023377 3310546133 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.024122 192.168.0.25:36392 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:61747 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x35D3F3E3  Ack: 0xC75AB2CA  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023379 3310546134 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.024419 192.168.0.25:36404 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:47578 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x13CA265F  Ack: 0x6FA0C181  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023379 3310546135 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.024601 192.168.0.25:36396 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:51277 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x265CD5C0  Ack: 0x8EE34077  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023379 3310546135 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.026600 192.168.0.25:36408 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:51658 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xC1278736  Ack: 0xABF72ABF  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023381 3310546137 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.027312 192.168.0.25:36398 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:4754 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xB856E459  Ack: 0x71A53759  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023382 3310546138 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.027579 192.168.0.25:36410 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:49525 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x392387C9  Ack: 0x85397B8F  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023382 3310546138 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.028761 192.168.0.25:36414 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:63833 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x261AC013  Ack: 0x149F85A5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023384 3310546139 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:21.028925 192.168.0.25:36402 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:58255 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xCAD9AFFD  Ack: 0xBAF98BBB  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282023384 3310546139 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.748271 192.168.0.25:36422 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40404 IpLen:20 DgmLen:61 DF
+***AP*** Seq: 0xCFB82DBF  Ack: 0x2CDC0EEF  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026103 3310548859 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.748543 192.168.0.25:36424 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:27396 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x1F3D3939  Ack: 0x3407A832  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026103 3310548859 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.748849 192.168.0.25:36426 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:45942 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x21A67FAB  Ack: 0xAF3A1100  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026104 3310548859 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.750836 192.168.0.25:36412 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:55404 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xCA8D3C3A  Ack: 0x82C3A5E4  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026106 3310548861 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.751909 192.168.0.25:36430 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28708 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x6475688D  Ack: 0x2B52B1C8  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026107 3310548862 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.752224 192.168.0.25:36438 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:10397 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xD9C03BAD  Ack: 0x457C3893  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026107 3310548863 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.753017 192.168.0.25:36444 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:17791 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x3DDE74A1  Ack: 0xF89865F0  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026108 3310548863 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.753225 192.168.0.25:36414 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:63838 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x261AC03E  Ack: 0x149F85FF  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026108 3310548864 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.754483 192.168.0.25:36408 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:51662 IpLen:20 DgmLen:65 DF
+***AP*** Seq: 0xC1278754  Ack: 0xABF72AF7  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026109 3310548865 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.754643 192.168.0.25:36410 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:49527 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x392387D8  Ack: 0x85397BA5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026109 3310548865 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.754821 192.168.0.25:36420 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:22087 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x7DA0B113  Ack: 0x1AD396E5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026110 3310548865 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:23.759083 192.168.0.25:36450 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:32114 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x9A5A20D6  Ack: 0x53B971EB  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282026114 3310548869 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.076691 192.168.0.25:36416 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:64889 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x5299149B  Ack: 0xD82E989C  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029432 3310552187 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.079248 192.168.0.25:36454 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28065 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xF1A980E  Ack: 0xABF8D346  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029434 3310552190 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.079430 192.168.0.25:36454 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28067 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xF1A9819  Ack: 0xABF8D368  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029434 3310552190 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.080709 192.168.0.25:36428 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:17281 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x58C77FF1  Ack: 0x8CA321CB  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029436 3310552191 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.084126 192.168.0.25:36426 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:45944 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x21A67FBA  Ack: 0xAF3A1116  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029439 3310552194 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.084607 192.168.0.25:36440 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:63689 IpLen:20 DgmLen:65 DF
+***AP*** Seq: 0xEB257616  Ack: 0xE518F13D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029439 3310552195 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.084876 192.168.0.25:36422 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40408 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xCFB82DD7  Ack: 0x2CDC0F27  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029440 3310552195 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.085099 192.168.0.25:36420 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:22091 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x7DA0B12E  Ack: 0x1AD3971D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029440 3310552195 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.085222 192.168.0.25:36422 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40410 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xCFB82DE2  Ack: 0x2CDC0F49  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029440 3310552195 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.086542 192.168.0.25:36418 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:36639 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x64B10EB5  Ack: 0xE28815BA  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029441 3310552197 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.087603 192.168.0.25:36436 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:32288 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xC282CA69  Ack: 0x79859CBF  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029442 3310552198 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.088633 192.168.0.25:36450 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:32118 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x9A5A20ED  Ack: 0x53B97223  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029443 3310552199 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.088890 192.168.0.25:36450 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:32120 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x9A5A2100  Ack: 0x53B97245  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029444 3310552199 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.093070 192.168.0.25:36460 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40407 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x6D86FCF8  Ack: 0xFDB57BEF  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029448 3310552203 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:27.093247 192.168.0.25:36464 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:20051 IpLen:20 DgmLen:65 DF
+***AP*** Seq: 0x388D0E2D  Ack: 0x551D112E  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282029448 3310552204 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.299353 192.168.0.25:36424 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:27404 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x1F3D396A  Ack: 0x3407A8A2  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032654 3310555410 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.300487 192.168.0.25:36474 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:10141 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x299B78BC  Ack: 0x1C49B6EC  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032655 3310555411 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.300650 192.168.0.25:36474 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:10143 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x299B78CB  Ack: 0x1C49B70E  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032656 3310555411 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.301536 192.168.0.25:36436 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:32290 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xC282CA75  Ack: 0x79859CD5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032656 3310555412 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.301715 192.168.0.25:36422 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40412 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xCFB82DED  Ack: 0x2CDC0F5F  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032657 3310555412 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.302064 192.168.0.25:36452 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:62102 IpLen:20 DgmLen:62 DF
+***AP*** Seq: 0xEB522D9A  Ack: 0x31F6BA2C  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032657 3310555412 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.302195 192.168.0.25:36422 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40414 IpLen:20 DgmLen:68 DF
+***AP*** Seq: 0xCFB82DF9  Ack: 0x2CDC0F81  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032657 3310555412 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.302474 192.168.0.25:36434 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:50637 IpLen:20 DgmLen:68 DF
+***AP*** Seq: 0x76072BD6  Ack: 0xF56CC0F7  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032657 3310555413 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.303119 192.168.0.25:36478 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:38242 IpLen:20 DgmLen:61 DF
+***AP*** Seq: 0xB77A5274  Ack: 0x19C6528D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032658 3310555413 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.304234 192.168.0.25:36450 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:32122 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x9A5A210C  Ack: 0x53B9725B  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032659 3310555415 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.304477 192.168.0.25:36456 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:21988 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x6B2DC47B  Ack: 0x97743A94  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032659 3310555415 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.304622 192.168.0.25:36458 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28840 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xBE561FCD  Ack: 0xA704B5DB  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032660 3310555415 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.305381 192.168.0.25:36446 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:26275 IpLen:20 DgmLen:68 DF
+***AP*** Seq: 0x204E5D68  Ack: 0x6A9293BE  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032660 3310555416 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.307226 192.168.0.25:36430 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28714 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x647568BD  Ack: 0x2B52B238  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032661 3310555417 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.308379 192.168.0.25:36460 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40413 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x6D86FD22  Ack: 0xFDB57C49  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032663 3310555419 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.309990 192.168.0.25:36440 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:63694 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xEB257639  Ack: 0xE518F197  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032665 3310555420 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:30.310834 192.168.0.25:36456 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:21990 IpLen:20 DgmLen:68 DF
+***AP*** Seq: 0x6B2DC48A  Ack: 0x97743AB6  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282032666 3310555421 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.261423 192.168.0.25:36484 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:54472 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xCF0F183  Ack: 0x63E42EE  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035616 3310558372 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.261499 192.168.0.25:36480 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:42369 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x67C07508  Ack: 0xB73DD5D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035616 3310558372 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.261991 192.168.0.25:36470 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:31239 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xE96BB0F8  Ack: 0x966F3346  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035617 3310558372 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.264014 192.168.0.25:36488 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:36640 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x1464CBF8  Ack: 0xB90A3A98  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035619 3310558374 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.264328 192.168.0.25:36458 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28842 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xBE561FEB  Ack: 0xA704B613  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035619 3310558375 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.264477 192.168.0.25:36492 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:1659 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x3F2087EB  Ack: 0x86774186  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035619 3310558375 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.265039 192.168.0.25:36458 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28843 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xBE561FFE  Ack: 0xA704B635  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035620 3310558375 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.268166 192.168.0.25:36494 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40685 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8C40F34D  Ack: 0xED72EE86  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035622 3310558378 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.268176 192.168.0.25:36454 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:28073 IpLen:20 DgmLen:62 DF
+***AP*** Seq: 0xF1A9840  Ack: 0xABF8D3B6  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035622 3310558378 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.268620 192.168.0.25:36496 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:6823 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x35746B18  Ack: 0xEC6082D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035623 3310558379 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.269244 192.168.0.25:36500 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:49029 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xCE13AE85  Ack: 0xC9D6093D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035624 3310558380 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.269568 192.168.0.25:36500 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:49031 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xCE13AE90  Ack: 0xC9D6095F  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035624 3310558380 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.270961 192.168.0.25:36504 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:8954 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xB3C5F020  Ack: 0x56143EBC  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035626 3310558381 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.271174 192.168.0.25:36504 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:8956 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xB3C5F02B  Ack: 0x56143EDE  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035626 3310558381 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.271563 192.168.0.25:36464 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:20060 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x388D0E70  Ack: 0x551D11C0  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035626 3310558382 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.271742 192.168.0.25:36474 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:10145 IpLen:20 DgmLen:62 DF
+***AP*** Seq: 0x299B78D7  Ack: 0x1C49B724  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035627 3310558382 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.274200 192.168.0.25:36506 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:11744 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xE9223626  Ack: 0xFABF298  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035629 3310558384 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:33.274412 192.168.0.25:36510 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:52480 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xBCB47716  Ack: 0x2D892971  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282035629 3310558385 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.968870 192.168.0.25:36470 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:31241 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xE96BB10B  Ack: 0x966F335C  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038324 3310561078 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.969137 192.168.0.25:36472 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:22792 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xF1697C6D  Ack: 0x78C35ADA  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038324 3310561079 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.969255 192.168.0.25:36480 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:42371 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x67C0751B  Ack: 0xB73DD73  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038324 3310561079 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.969407 192.168.0.25:36472 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:22794 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xF1697C78  Ack: 0x78C35AFC  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038324 3310561080 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.970556 192.168.0.25:36514 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:3436 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x861C74DB  Ack: 0x8F75D99F  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038325 3310561081 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.971420 192.168.0.25:36516 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:17285 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xC08105F7  Ack: 0xB1723F07  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038326 3310561082 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.972255 192.168.0.25:36520 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:23666 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x23224DDF  Ack: 0x4AF7FF43  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038327 3310561082 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.973194 192.168.0.25:36476 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:14544 IpLen:20 DgmLen:65 DF
+***AP*** Seq: 0x9186F08A  Ack: 0xAF01936D  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038328 3310561083 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.976737 192.168.0.25:36466 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:33349 IpLen:20 DgmLen:62 DF
+***AP*** Seq: 0xEEAABD50  Ack: 0x69C0BE5  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038332 3310561087 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.977213 192.168.0.25:36466 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:33351 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xEEAABD5A  Ack: 0x69C0C07  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038332 3310561087 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.977336 192.168.0.25:36494 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:40687 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8C40F35C  Ack: 0xED72EE9C  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038332 3310561087 
+
+[**] [1:100000003:1] Brute Force Attack, Intruder attempting FTP Access [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/13-15:53:35.978507 192.168.0.25:36522 -> 192.168.0.24:21
+TCP TTL:64 TOS:0x0 ID:12175 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xE6A72058  Ack: 0x78C7F383  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4282038333 3310561089 
+
